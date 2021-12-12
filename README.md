@@ -1,2 +1,2 @@
-# advent-of-code-2021
-The Advent of Code challenge, 2021
+# Advent of Code 2021
+[[Link]](https://adventofcode.com/2021/) <-- click for the challenge
